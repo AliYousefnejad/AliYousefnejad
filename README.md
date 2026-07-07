@@ -4,7 +4,6 @@
 ## About Me
 I am a computer engineering student and an aspiring developer deeply invested in honing my skills. Currently, as an intern, my primary focus is diving deep into modern web development, mastering new frameworks, and tackling complex logic and technical challenges. I thrive on problem-solving and am always eager to learn and adapt to up-to-date technologies.
 
----
 ## 📊 Status
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=AliYousefnejad">
