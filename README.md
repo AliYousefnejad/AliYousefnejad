@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ali%20Yousefnejad&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+
+## About Me
+I am a computer engineering student and an aspiring developer deeply invested in honing my skills. Currently, as an intern, my primary focus is diving deep into modern web development, mastering new frameworks, and tackling complex logic and technical challenges. I thrive on problem-solving and am always eager to learn and adapt to up-to-date technologies.
+
+---
+## 📊 Status
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=AliYousefnejad">
   </a>
